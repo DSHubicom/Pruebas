@@ -1,2 +1,2 @@
-# Pruebas
-Prueba 1
+# Envío MQTT desde nodemcu
+En lenguaje wiring (arduino)
