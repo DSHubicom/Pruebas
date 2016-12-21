@@ -5,14 +5,14 @@
 #define PIR_GPIO 5
 
 /************************* Parámetros de conexión red WiFi WiFi *********************************/
-#define WLAN_SSID       "Orange-152A"
-#define WLAN_PASS       "3EE529C4"
+#define WLAN_SSID       "vuestroSSID"
+#define WLAN_PASS       "vuestraclaveWIFI"
 
 /************************* Parámatros de conexión Servidor MQTT (e.g., Adafruit.io) *********************************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   //8883 para SSL
-#define AIO_USERNAME    "mlinaje"
-#define AIO_KEY         "167931566c6f53a9e2be8f7f153cef99500bd08b"
+#define AIO_USERNAME    "vuestrousernameenadafruit.io"
+#define AIO_KEY         "vuestrakeyenadafruit.io"
 
 /************ Variables para cliente WiFi y cliente MQTT ******************/
 // Crea un cliente ESP8266
